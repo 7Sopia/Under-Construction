@@ -1,0 +1,35 @@
+*{
+    padding:16px ;
+    margin: 0px;
+    box-sizing: border-box;
+}
+img{
+    width: 40%;
+    border-radius: 45px;
+   display: block;
+ margin:0 auto;
+}
+h1{
+width:30%;
+margin:0 auto;
+font-size: 40px;
+}
+p{
+width:30%;
+margin:0 auto;
+}
+h2{
+width:30%;
+margin:0 auto; 
+}
+.but{
+width:30%;
+margin:0 auto; 
+color: rgb(212, 19, 19);
+}
+button{ 
+    color: #f7da00;
+    background-color: black;
+    font-size: 16px;
+    border-radius: 12px;
+}
